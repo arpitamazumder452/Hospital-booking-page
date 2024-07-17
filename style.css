@@ -1,0 +1,81 @@
+*
+{
+    margin : 0;
+    padding: 0;
+
+}
+body
+{
+    font-family: sans-serif;
+}
+#nav-bar
+{
+position : sticky;
+top : 0;
+z-index: 10;
+
+}
+.navbar
+{
+ background-image: linear-gradient(to left, #77E4C8, #77E4C8);
+ padding: 0 !important;
+}
+navbar-brand img
+{
+    height: 40px;
+    padding-left: 20px;
+}
+.navbar-nav li
+{
+    padding: 0 10px;
+}
+.navbar-nav li a
+{
+    color: #fff !important;
+    font-weight: 600;
+}
+
+/*-----------banner section--------------*/
+
+#banner
+{
+    background-image: linear-gradient(to left, #FFFFFF, #FFFFFF);
+    color: #77E4C8; 
+    
+}
+.promo-title
+{
+    font-size: 40px;
+    font-weight: 600px;
+    margin-top: 100px;
+    color: black;
+}
+.Description
+{
+    color: black;
+}
+.play-btn
+{
+    width: 30px;
+    margin: 20px;
+    margin-top: 80px;
+    margin-bottom: 5px;
+}
+.img-fluid
+{
+    width: 420px;
+    margin: 70px;
+}
+.img-dot
+{
+    width: 150px;
+    float: right;
+    
+}
+
+.mico{
+    color: black;
+}
+
+
+}
